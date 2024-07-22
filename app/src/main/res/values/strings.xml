@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExchangeRater</string>
+    <string name="converter_title">Конвертер валют</string>
+    <string name="amount_input">Сумма в рублях</string>
+    <string name="currency_hint">Выберите валюту</string>
+    <string name="convert_btn_text">Конвертировать</string>
+</resources>
