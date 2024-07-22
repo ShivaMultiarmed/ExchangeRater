@@ -1,6 +1,5 @@
 package mikhail.shell.exchangerater
 
-import android.util.Log
 import com.google.gson.Gson
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.subjects.PublishSubject
@@ -10,7 +9,6 @@ import retrofit2.Callback
 import retrofit2.Response
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
-import kotlin.math.cos
 
 
 class ConverterRepository private constructor() {
